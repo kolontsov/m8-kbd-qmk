@@ -1,6 +1,6 @@
-# m8-kbd-qmk
+# M8-kbd QMK
 
-QMK firmware for [m8-kbd](https://github.com/kolontsov/m8-kbd), an RP2040-based USB keypad for M8 Headless. Both [m8.run](https://m8.run/) and [m8c](https://github.com/laamaa/m8c) keymaps are supported.
+QMK firmware for [M8-kbd](https://github.com/kolontsov/m8-kbd), an RP2040-based USB keypad for M8 Headless. Both [m8.run](https://m8.run/) and [m8c](https://github.com/laamaa/m8c) keymaps are supported.
 
 ## Build
 
