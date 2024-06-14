@@ -1,0 +1,12 @@
+{
+  "keyboard": "m8_kbd",
+  "layout": "LAYOUT",
+  "keymap": "m8run",
+  "layers": [
+    [
+      "KC_UP",   "KC_Z",    "KC_X",
+      "KC_LEFT", "KC_DOWN", "KC_RIGHT",
+                 "KC_LSFT", "KC_SPACE"
+    ]
+  ]
+}
